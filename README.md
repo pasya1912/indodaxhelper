@@ -1,5 +1,7 @@
 # Indodax Trading Helper
 Simple Open-Source Javascript untuk membantumu menganalisa market indodax.
+Di versi Pertama ini hanya ada Menghitung 150 Aktivitas market Terakhir.
+Jika anda buka Indodax secara langsung, disana hanya ditampilkan 20 Aktivitas, tetapi memalui script ini kalian bisa melihat dan menghitung perbandingan buy/sell 150 transaksi trakhir.
 
 ## How To Use
 1. Pada Chromium Browser ( Latest Edge or Chrome Browser ) install Script Runner Pro.
